@@ -2,6 +2,15 @@ body {
   font-family: 'Noto Sans', sans-serif;
 }
 
+.demo-video-section {
+  background-color: #f7f7fb;
+}
+
+.demo-video-section .container {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
 
 .footer .icon-link {
     font-size: 25px;
